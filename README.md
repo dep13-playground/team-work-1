@@ -6,7 +6,7 @@
 - Ruwan
 
 ### Version
-0.2.0
+0.3.0
 
 ### License
 Copyright &copy; 2025 DEP13. All Rights Reserved.
